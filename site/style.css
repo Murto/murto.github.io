@@ -1,0 +1,11 @@
+body {
+  font-family: Courier New;
+  background: #111111;
+}
+
+#paper {
+  margin: auto;
+  width: 21cm;
+  padding: 1em;
+  background: white;
+}

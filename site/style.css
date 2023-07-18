@@ -9,3 +9,10 @@ body {
   padding: 1em;
   background: white;
 }
+
+.code {
+  font-family: monospace;
+  background: #CCCCCC;
+  padding: 1em;
+  border-radius: 1em;
+}
